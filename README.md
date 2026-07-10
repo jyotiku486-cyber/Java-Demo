@@ -1,2 +1,2 @@
 # Java-Demo
-This is my second first Git Repositery 
+This is my second first Git Repository. 
